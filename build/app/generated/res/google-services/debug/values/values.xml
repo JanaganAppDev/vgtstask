@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">869798021211-f87obrnfa3drh2fligtki5j8uhn7f533.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">869798021211</string>
+    <string name="google_api_key" translatable="false">AIzaSyCrrS9qwLkEVTxe28uLN9rLl8gkqLnjfP8</string>
+    <string name="google_app_id" translatable="false">1:869798021211:android:9a96fa39d3c9b6a559177e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCrrS9qwLkEVTxe28uLN9rLl8gkqLnjfP8</string>
+    <string name="google_storage_bucket" translatable="false">vgtstask.appspot.com</string>
+    <string name="project_id" translatable="false">vgtstask</string>
+</resources>

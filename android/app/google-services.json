@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869798021211",
+    "project_id": "vgtstask",
+    "storage_bucket": "vgtstask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869798021211:android:9a96fa39d3c9b6a559177e",
+        "android_client_info": {
+          "package_name": "com.example.vgtstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869798021211-f87obrnfa3drh2fligtki5j8uhn7f533.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrrS9qwLkEVTxe28uLN9rLl8gkqLnjfP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869798021211-f87obrnfa3drh2fligtki5j8uhn7f533.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
